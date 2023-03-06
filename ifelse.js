@@ -50,6 +50,7 @@ if (x > 0) {
   document.write('Zero');
 } */
 
+/*
 var x = -30;
 
 if (x > 0) {
@@ -64,4 +65,4 @@ if (x > 0) {
   document.write('Negative and odd');
 } else {
   document.write('Zero');
-}
+}*/
